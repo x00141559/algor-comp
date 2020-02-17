@@ -1,0 +1,14 @@
+﻿  BinaryTree.cpp
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\BinaryTree.cpp(16,36): error C2664: 'Tree::TreeNode::TreeNode(Tree::TreeNode &&)': cannot convert argument 1 from 'char' to 'const Tree::TreeNode &'
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\BinaryTree.cpp(16,36): message : Reason: cannot convert from 'char' to 'const Tree::TreeNode'
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\BinaryTree.cpp(16,36): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\TreeNode.h(21,2): message : see declaration of 'Tree::TreeNode::TreeNode'
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\BinaryTree.cpp(16,36): error C2660: 'Tree::BinaryTree::insert': function does not take 1 arguments
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\BinaryTree.h(16,8): message : see declaration of 'Tree::BinaryTree::insert'
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\BinaryTree.cpp(22,41): error C2664: 'Tree::TreeNode::TreeNode(Tree::TreeNode &&)': cannot convert argument 1 from 'char' to 'const Tree::TreeNode &'
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\BinaryTree.cpp(22,41): message : Reason: cannot convert from 'char' to 'const Tree::TreeNode'
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\BinaryTree.cpp(22,41): message : No constructor could take the source type, or constructor overload resolution was ambiguous
+C:\Users\aoife\source\repos\Lab4a1\Lab4a1\TreeNode.h(21,2): message : see declaration of 'Tree::TreeNode::TreeNode'
+  Soucre.cpp
+  TreeNode.cpp
+  Generating Code...
