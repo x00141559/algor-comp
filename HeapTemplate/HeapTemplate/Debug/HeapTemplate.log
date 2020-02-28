@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\aoife\source\repos\HeapTemplate\HeapTemplate\Source.cpp(38,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\aoife\source\repos\HeapTemplate\HeapTemplate\Source.cpp(45,21): warning C4018: '<': signed/unsigned mismatch
+  HeapTemplate.vcxproj -> C:\Users\aoife\source\repos\HeapTemplate\Debug\HeapTemplate.exe
